@@ -19,10 +19,10 @@
     "primaryTokenAttribute": "hp",
     "secondaryTokenAttribute": "endurance_points",
     "packs": [],
-    "url": "https://github.com/jesuisfrog/AFMBE-Jesuisfrog-Unofficial/",
-    "bugs": "https://github.com/jesuisfrog/AFMBE-Jesuisfrog-Unofficial/issues",
-    "changelog": "https://github.com/jesuisfrog/AFMBE-Jesuisfrog-Unofficial/CHANGELOG.md",
-    "manifest": "https://raw.githubusercontent.com/jesuisfrog/AFMBE-Jesuisfrog-Unofficial/main/system.json",
-    "download": "https://github.com/jesuisfrog/AFMBE-Jesuisfrog-Unofficial/raw/main/afmbe-jesuisfrog.zip",
+    "url": "https://github.com/Atomsoldat/AFMBE-Jesuisfrog-Unofficial/",
+    "bugs": "https://github.com/Atomsoldat/AFMBE-Jesuisfrog-Unofficial/issues",
+    "changelog": "https://github.com/Atomsoldat/AFMBE-Jesuisfrog-Unofficial/CHANGELOG.md",
+    "manifest": "https://raw.githubusercontent.com/Atomsoldat/AFMBE-Jesuisfrog-Unofficial/main/system.json",
+    "download": "https://github.com/Atomsoldat/AFMBE-Jesuisfrog-Unofficial/raw/main/afmbe-jesuisfrog.zip",
     "license": "LICENSE.txt"
 }
